@@ -141,4 +141,5 @@ $ gitbook mobi ./ ./mybook.mobi
 生成 PDF 的详细配置可以[参考](https://github.com/GitbookIO/gitbook/blob/master/docs/config.md)
 
 **封面**
+
 需要插件实现，[参考](https://plugins.gitbook.com/plugin/autocover)
