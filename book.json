@@ -1,0 +1,21 @@
+{
+  "root": "./docs",
+  "title": "xxxAPI 文档",
+  "description": "xxx API文档的描述",
+  "author": "abingoal",
+  "language": "zh-hans",
+  "plugins": ["anchorjs"],
+  "pluginsConfig": {
+    "anchorjs": {
+      "icon": "#",
+      "placement": "left",
+      "visible": "always"
+    }
+  },
+  "theme-default": {
+    "showLevel": false,
+    "styles": {
+      "website": "/style/style.css"
+    }
+  }
+}
