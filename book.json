@@ -4,18 +4,23 @@
   "description": "xxx API文档的描述",
   "author": "abingoal",
   "language": "zh-hans",
-  "plugins": ["anchorjs"],
+  "plugins": ["anchorjs", "splitter", "tbfed-pagefooter", "-share"],
   "pluginsConfig": {
     "anchorjs": {
-      "icon": "#",
+      "icon": "♠",
       "placement": "left",
       "visible": "always"
-    }
-  },
-  "theme-default": {
-    "showLevel": false,
-    "styles": {
-      "website": "/style/style.css"
+    },
+    "tbfed-pagefooter": {
+      "copyright": "Copyright &copy xxx公司 2018",
+      "modify_label": "文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "theme-default": {
+      "showLevel": false,
+      "styles": {
+        "website": "./styles/style.css"
+      }
     }
   }
 }
