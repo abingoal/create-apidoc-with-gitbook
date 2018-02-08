@@ -142,3 +142,7 @@ $ gitbook mobi ./ ./mybook.mobi
 
 **封面**
 需要插件实现，[参考](https://plugins.gitbook.com/plugin/autocover)
+
+## 预览
+
+![预览图片](../assets/screenshot.png)
