@@ -12,7 +12,10 @@
     "favicon",
     "alerts",
     "versions-select",
-    "-sharing"
+    "prism",
+    "prism-themes",
+    "-sharing",
+    "-highlight"
   ],
   "pluginsConfig": {
     "anchorjs": {
@@ -41,6 +44,9 @@
           "value": ""
         }
       ]
+    },
+    "prism": {
+      "css": ["prism-themes/themes/prism-ghcolors.css"]
     },
     "theme-default": {
       "showLevel": true,
