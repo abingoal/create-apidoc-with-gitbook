@@ -11,6 +11,7 @@
     "toggle-chapters",
     "favicon",
     "alerts",
+    "versions-select",
     "-sharing"
   ],
   "pluginsConfig": {
@@ -29,8 +30,20 @@
       "bookmark": "assets/favicon.ico",
       "appleTouch": "assets/apple-touch-icon.png"
     },
+    "versions": {
+      "options": [
+        {
+          "text": "v1.0.0",
+          "value": ""
+        },
+        {
+          "text": "v2.0.0",
+          "value": ""
+        }
+      ]
+    },
     "theme-default": {
-      "showLevel": false,
+      "showLevel": true,
       "styles": {
         "website": "./styles/style.css"
       }
