@@ -9,6 +9,7 @@
     "splitter",
     "tbfed-pagefooter",
     "toggle-chapters",
+    "favicon",
     "-sharing"
   ],
   "pluginsConfig": {
@@ -21,6 +22,11 @@
       "copyright": "Copyright &copy xxx公司 2018",
       "modify_label": "文件修订时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "favicon": {
+      "shortcut": "assets/favicon.ico",
+      "bookmark": "assets/favicon.ico",
+      "appleTouch": "assets/apple-touch-icon.png"
     },
     "theme-default": {
       "showLevel": false,
