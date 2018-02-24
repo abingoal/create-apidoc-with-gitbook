@@ -4,7 +4,13 @@
   "description": "xxx API文档的描述",
   "author": "abingoal",
   "language": "zh-hans",
-  "plugins": ["anchorjs", "splitter", "tbfed-pagefooter", "-sharing"],
+  "plugins": [
+    "anchorjs",
+    "splitter",
+    "tbfed-pagefooter",
+    "toggle-chapters",
+    "-sharing"
+  ],
   "pluginsConfig": {
     "anchorjs": {
       "icon": "♠",
