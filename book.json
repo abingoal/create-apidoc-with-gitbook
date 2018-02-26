@@ -34,14 +34,17 @@
       "appleTouch": "assets/apple-touch-icon.png"
     },
     "versions": {
+      "gitbookConfigURL":
+        "https://github.com/abingoal/create-apidoc-with-gitbook/blob/master/book.json",
       "options": [
         {
-          "text": "v1.0.0",
-          "value": ""
+          "text": "Version 1.0.0",
+          "value": "http://localhost:4000/",
+          "selected": true
         },
         {
-          "text": "v2.0.0",
-          "value": ""
+          "text": "Version 2.0.0",
+          "value": "http://localhost:4000/"
         }
       ]
     },

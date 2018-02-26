@@ -53,13 +53,13 @@
 
 #### 结果示例
 
-```javascript
+```json
 {
-    "code": 0,
-    "result1": "result1",
-    "result2": {
-        "result3":"result3"
-    },
+  "code": 0,
+  "result1": "result1",
+  "result2": {
+    "result3": "result3"
+  }
 }
 ```
 
