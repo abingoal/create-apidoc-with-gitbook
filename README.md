@@ -148,8 +148,8 @@ $ gitbook mobi ./ ./mybook.mobi
 
 **整体样式**
 
-![预览图片](./assets/screenshot.png)
+![预览图片](./docs/assets/screenshot.png)
 
 **API 页面**
 
-![API页面样式](./assets/screenshot_api_page.png)
+![API页面样式](./docs/assets/screenshot_api_page.png)
