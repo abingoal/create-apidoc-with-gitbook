@@ -27,6 +27,22 @@ $ gitbook init
 
 或者在自己创建好的目录下直接执行初始化命令来创建文档。
 
+然后安装gitbook插件
+
+``` bash
+$ gitbook install
+```
+
+> **更新**
+
+为了方便一键发布，项目集合了`express`作为静态服务器
+
+在安装gitbook前请先执行`express`依赖的安装
+
+``` bash
+$ npm install
+```
+
 **预览文档**
 
 ```bash
